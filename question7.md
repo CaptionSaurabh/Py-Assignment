@@ -1,0 +1,1 @@
+A function in Python is a reusable block of code that performs a specific task. Functions are used to promote code reusability, modularity, and readability.
